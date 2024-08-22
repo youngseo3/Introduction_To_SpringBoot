@@ -28,7 +28,7 @@ class HelloControllerTest {
     }
 
     @Test
-    void helloDto() throws Exception {
+    void helloDtoTest() throws Exception {
         String name = "hello";
         int amount = 1000;
 
